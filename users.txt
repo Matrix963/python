@@ -1,0 +1,5 @@
+Albert|Albert123|3000
+Bella|Bella123|2500
+Ann|Ann123|5000
+Edward|Edward123|6000
+Sharon|Sharon123|30000
